@@ -1,0 +1,27 @@
+{
+  "name": "lh-api",
+  "version": "1.0.0",
+  "description": "loghub api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris-held/lh-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chris-held/lh-api/issues"
+  },
+  "homepage": "https://github.com/chris-held/lh-api#readme",
+  "dependencies": {
+    "express": "4.14.0",
+    "moment": "2.15.1"
+  },
+  "devDependencies": {
+    "nodemon": "1.11.0"
+  }
+}
